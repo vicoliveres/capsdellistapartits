@@ -20,13 +20,13 @@ h2 {
 }
 
 h3 {
-	font-family: Raleway, "OpenSans", sans-serif;
+	font-family: Raleway, "Lora", sans-serif;
 	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 600;
 	line-height: 25px;
-	margin:auto;
+	margin-bottom: 15px;
 	text-align: center;
 }
 
@@ -51,7 +51,7 @@ footer {
 	margin-bottom: 50px;
 }
 
-.labels { font-family: "Open Sans"; font-size: 9px; font-style: normal; font-variant: normal; font-weight: 400; }
+.labels { font-family: "Open Sans"; font-size: 9px; font-style: normal; font-variant: normal; font-weight: bold; }
 
 .legend-text { font-family: "Open Sans"; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 550; margin: auto 5px}
 
